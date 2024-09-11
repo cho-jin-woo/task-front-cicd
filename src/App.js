@@ -11,6 +11,7 @@ import Important from './components/Important';
 import Proceeding from './components/Proceeding';
 
 function App() {
+  console.log('test1');
   return (
     <BrowserRouter>
       <div className="App">
